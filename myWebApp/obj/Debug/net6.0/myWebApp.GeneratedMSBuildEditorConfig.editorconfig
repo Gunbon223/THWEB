@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = myWebApp
+build_property.RootNamespace = myWebApp
+build_property.ProjectDir = C:\Users\gunbo\OneDrive - Đại học Giao thông vận tải\LTWEB\Lab2\myWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gunbo\OneDrive - Đại học Giao thông vận tải\LTWEB\Lab2\myWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/BufferedFileUpload/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVmZmVyZWRGaWxlVXBsb2FkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Learner/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Learner/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Learner/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Learner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhcm5lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/Components/Render/RenderLeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVuZGVyXFJlbmRlckxlZnRNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/LeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExlZnRNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1haW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/MyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE15TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/MyLayoutHelper.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE15TGF5b3V0SGVscGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/TopNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcE5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/StreamFileUpload/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyZWFtRmlsZVVwbG9hZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gunbo/OneDrive - Đại học Giao thông vận tải/LTWEB/Lab2/myWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-t62p2iorqe
